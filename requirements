@@ -1,0 +1,7 @@
+requests>=2.26.0
+paho-mqtt>=1.6.1
+PyAudio>=0.2.11
+opuslib>=3.0.0
+cryptography>=3.4.8
+PyQt5>=5.15.6
+
