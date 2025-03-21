@@ -26,7 +26,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 
 class ChatMessage(QFrame):
-    """聊天消息组件"""
+    """聊天消息组件加载"""
 
     def __init__(self, text, is_user=True, emoji=None, parent=None):
         super().__init__(parent)
