@@ -3,3 +3,7 @@
 * 厡项目作者地址[xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)</br>
 * 该项目在[py-xiaozhi](https://github.com/zhh827/py-xiaozhi)</br>项目的基础上，添加了gui
 * 由于属于练手项目，项目中存在许多不足还请各位大佬多多担待一下。
+## windows需要安装依赖
+* pip 安装依赖模块
+pip  install -r requirements.txt
+* 将opus.dll拷贝到至C:\Windows\System32目录中
